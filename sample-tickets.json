@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Charged twice for my subscription",
+    "body": "I checked my bank statement and there are two charges of $29.99 from your company this month. I only have one subscription. Please refund the extra charge immediately.",
+    "customer_name": "Sarah Johnson",
+    "customer_email": "sarah.j@email.com"
+  },
+  {
+    "subject": "App crashes every time I try to open settings",
+    "body": "I'm using the latest version of the app on iPhone 15. Every time I tap on Settings, the app crashes and goes back to the home screen. I've tried restarting my phone but it still happens.",
+    "customer_name": "Mike Chen",
+    "customer_email": "mike.chen@email.com"
+  },
+  {
+    "subject": "Can't login - password reset email not arriving",
+    "body": "I forgot my password and clicked the reset password link 3 times but I'm not receiving any email. I checked my spam folder too. I need to access my account urgently for a deadline.",
+    "customer_name": "Emily Davis",
+    "customer_email": "emily.d@email.com"
+  },
+  {
+    "subject": "Feature request: dark mode support",
+    "body": "It would be great if you could add dark mode to the app. I use it a lot at night and the white background hurts my eyes. Many other apps have this feature already.",
+    "customer_name": "Alex Kumar",
+    "customer_email": "alex.k@email.com"
+  },
+  {
+    "subject": "How do I export my data?",
+    "body": "Hi, I need to export all my project data to CSV format for a report. I can't find the export button anywhere in the dashboard. Can you guide me?",
+    "customer_name": "Jordan Lee",
+    "customer_email": "jordan.lee@email.com"
+  },
+  {
+    "subject": "URGENT: Security breach - unauthorized access to my account",
+    "body": "Someone logged into my account from an unknown location in Russia. I can see login activity I don't recognize. They may have accessed my payment information. Please lock my account immediately!",
+    "customer_name": "Robert Wilson",
+    "customer_email": "r.wilson@email.com"
+  },
+  {
+    "subject": "Dashboard loads very slowly",
+    "body": "For the past week, the dashboard takes over 30 seconds to load. It used to load in under 3 seconds. I've cleared my cache and tried different browsers but it's still slow. This is affecting my team's productivity.",
+    "customer_name": "Lisa Wang",
+    "customer_email": "lisa.wang@email.com"
+  },
+  {
+    "subject": "Want to upgrade to Enterprise plan",
+    "body": "We're a team of 50 people and we want to upgrade from the Pro plan to the Enterprise plan. Can you share the pricing details and help us with the migration?",
+    "customer_name": "Tom Bradley",
+    "customer_email": "tom.b@company.com"
+  },
+  {
+    "subject": "API returning 500 errors intermittently",
+    "body": "Our integration is getting intermittent 500 Internal Server Error responses from your API endpoint /api/v2/projects. It happens roughly 1 in every 10 requests. Our request IDs: req_abc123, req_def456.",
+    "customer_name": "Priya Sharma",
+    "customer_email": "priya.s@devteam.io"
+  },
+  {
+    "subject": "Invoice needed for tax purposes",
+    "body": "I need a formal invoice for my subscription payments over the last 6 months for tax filing purposes. Can you generate and send it to my email?",
+    "customer_name": "David Martinez",
+    "customer_email": "david.m@accounting.com"
+  }
+]
